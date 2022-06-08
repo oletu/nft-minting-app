@@ -10,9 +10,9 @@
   "SYMBOL": "FLNFT",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/fluffy-lions",
   "SHOW_BACKGROUND": true
 }
